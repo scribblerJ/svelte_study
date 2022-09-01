@@ -6,22 +6,17 @@
 
 -->
 <script>
-	import { Router, Link, Route } from "svelte-routing";
-	import Home from "./routes/Home.svelte";
-	import About from "./routes/About.svelte";
-	export let url = "";
+	import Header from "./components/Header.svelte";
+	import Footer from "./components/Footer.svelte";
+	import Router from "svelte-spa-router";
+	import routes from "./routes";
 </script>
 
-<Router {url}>
-	<nav>
-		<Link to="/">Home</Link>
-		<Link to="about">About</Link>
-	</nav>
-	<div>
-		<Route path="/"><Home /></Route>
-		<Route path="about" component={About} />
-	</div>
-</Router>
+<main>
+	<Header />
+	<Router {routes} />
+	<Footer />
+</main>
 
 <style>
 </style>
