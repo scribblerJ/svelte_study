@@ -1,4 +1,4 @@
-"# svelte_study"
+# svelte_study
 
 ### 다음 강의 영상 보고 따라함
 
