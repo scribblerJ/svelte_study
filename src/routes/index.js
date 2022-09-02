@@ -3,7 +3,8 @@ import About from "./About.svelte";
 import BasicGrammar from "./BasicGrammar.svelte";
 import DataBinding from "./DataBinding.svelte";
 import ComponentLifecycle from "./ComponentLifecycle.svelte";
-import store from "./store.svelte";
+import Store from "./Store.svelte";
+import Slot from "./Slot.svelte";
 
 export default {
     "/": Home,
@@ -11,5 +12,6 @@ export default {
     "/BasicGrammar": BasicGrammar,
     "/DataBinding": DataBinding,
     "/ComponentLifecycle": ComponentLifecycle,
-    "/store": store,
+    "/Store": Store,
+    "/Slot": Slot,
 }
