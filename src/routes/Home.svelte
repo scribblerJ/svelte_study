@@ -1,1 +1,7 @@
-<h1>Home!</h1>
+<script>
+</script>
+
+<main />
+
+<style>
+</style>
