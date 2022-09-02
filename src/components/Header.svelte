@@ -3,4 +3,5 @@
 	<a href="#/About">About</a>
 	<a href="#/BasicGrammar">BasicGrammar</a>
 	<a href="#/DataBinding">DataBinding</a>
+	<a href="#/ComponentLifecycle">ComponentLifecycle</a>
 </nav>
