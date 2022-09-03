@@ -6,4 +6,5 @@
 	<a href="#/ComponentLifecycle">ComponentLifecycle</a>
 	<a href="#/Store">Store</a>
 	<a href="#/Slot">Slot</a>
+	<a href="#/Transition">Transition</a>
 </nav>

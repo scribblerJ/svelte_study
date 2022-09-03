@@ -5,6 +5,7 @@ import DataBinding from "./DataBinding.svelte";
 import ComponentLifecycle from "./ComponentLifecycle.svelte";
 import Store from "./Store.svelte";
 import Slot from "./Slot.svelte";
+import Transition from "./Transition.svelte";
 
 export default {
     "/": Home,
@@ -14,4 +15,5 @@ export default {
     "/ComponentLifecycle": ComponentLifecycle,
     "/Store": Store,
     "/Slot": Slot,
+    "/Transition": Transition,
 }
