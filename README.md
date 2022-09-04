@@ -12,6 +12,11 @@
 > Svelte (개발자의품격)  
 > https://www.youtube.com/playlist?list=PLqbWuGdVBJd2IljnWGSuDk6sQmb6ibTkt
 
+1.3 Todo 페이지 제작
+
+> Todo프로젝트  
+> https://www.youtube.com/watch?v=qsMc2mlJWyM&list=PLBQiFVHp3AaldV3eMDTMwxh0I8oYTdXRR
+
 ---
 
 ## 2. 다음 블로그 참고함
@@ -25,3 +30,8 @@
 
 > [Svelte] 페이지 라우팅, svelte-routing  
 > https://doppelgoer.tistory.com/entry/Svelte-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%9D%BC%EC%9A%B0%ED%8C%85
+
+2.3. trasition 사용법 참고
+
+> [Svelte] 트랜지션  
+> https://beomy.github.io/tech/svelte/transition/

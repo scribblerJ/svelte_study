@@ -6,6 +6,7 @@ import ComponentLifecycle from "./ComponentLifecycle.svelte";
 import Store from "./Store.svelte";
 import Slot from "./Slot.svelte";
 import Transition from "./Transition.svelte";
+import Todo from "./Todo.svelte";
 
 export default {
     "/": Home,
@@ -16,4 +17,5 @@ export default {
     "/Store": Store,
     "/Slot": Slot,
     "/Transition": Transition,
+    "/Todo": Todo,
 }
